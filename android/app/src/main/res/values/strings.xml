@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">flutterscaleapp</string>
+    <string name="facebook_app_id">365369142963581</string>
+    <string name="fb_login_protocol_scheme">fb365369142963581</string>
+    <string name="facebook_client_token">25059f04519d901d3b6798a34fa07c26</string>
+</resources>
